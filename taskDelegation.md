@@ -1,15 +1,15 @@
-#Task Delegation
+# Task Delegation
 
-##Cade Cottrell
+###### Cade Cottrell
 
-##Liora Davey
+###### Liora Davey
 
-##Alexandros Frangeskou
+###### Alexandros Frangeskou
 
-##Jiao Huang
+###### Jiao Huang
 
-##Richard Lin
+###### Richard Lin
 
-##Shayan Mufti
+###### Shayan Mufti
 
-##David Testa
+###### David Testa
