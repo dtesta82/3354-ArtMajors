@@ -1,5 +1,5 @@
-# 7 Functional Requirements
-###### By: David Testa
+## 7 Functional Requirements
+###### Collaborators: David Testa
 
 ### 1:
 
