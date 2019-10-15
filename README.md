@@ -11,5 +11,5 @@ https://docs.google.com/document/d/1YLL-syuwqEJHuzy9rf5G_lOG1mMFPsTZyEALX2NpdK0/
 
 
 ## Updates:
-10/14 - Dave - Updated project name with proposed groupname, added useful links.
+10/14 - Dave - Updated project name with proposed groupname, added useful links.  
 10/15 - In class group meeting: All project tasks assigned and being worked on. All due Thursday (10/17) night.
