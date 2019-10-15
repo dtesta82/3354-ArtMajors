@@ -1,13 +1,12 @@
 # Non-Functional Requirements
 
-## Product Requirements
-  * Efficiency:
-    * Performance: 
-    * Space: 
-  * Usability:
-  * Dependability:
-  * Security: 
+## Product Requirements:
 
-## Organizational
+## Organizational:
 
-## External
+## External:
+ * Regulatory: 
+ * Ethical: 
+ * Legislative: 
+  * Accounting:
+  * Safety: 
