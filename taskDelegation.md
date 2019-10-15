@@ -18,7 +18,8 @@
 
 ## Shayan Mufti
    * 1.1 - Create GitHub account: @wizemufti
-   * 8 - Create Architectural Design for project
+   * 8 - Create Architectural Design for project  
+   * 4.B - Non functional requirements: Ethical, Legislative, Accounting, Safety
 
 ## David Testa
    * 1.1 - Create GitHub account: @dtesta82
