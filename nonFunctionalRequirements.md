@@ -8,5 +8,5 @@
  * Regulatory: 
  * Ethical: 
  * Legislative: 
-  * Accounting:
-  * Safety: 
+   * Accounting:
+   * Safety: 
