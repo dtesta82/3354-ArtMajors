@@ -1,6 +1,6 @@
 ## 7 Functional Requirements
 ###### Collaborators: David Testa
-######
+<br />
 
 ### 1: Something
 blah blah blah
