@@ -11,4 +11,4 @@
  * Ethical: 
  * Legislative: 
    * Accounting:
-   * Safety: 
+   * Safety: The system must ask permissions from user in order for the system to take user purchases and activities from the user's credit card.
