@@ -1,0 +1,28 @@
+1. Life Optimization App
+   
+   1.1 Main Page
+       1.1.1 List categories of savings
+       1.1.2 Be able to add to a category
+       1.1.3 Quick-glance total savings to a category
+   
+   1.2 View Savings
+       1.2.1 Simple pi-chart of savings displayed
+       1.2.2 Total savings noted
+       1.2.3 Each category listed with percentage/total and cost
+       
+   1.3 User Input
+       1.3.1 Easy category selection for adding input
+       	     1.3.1a Special Case: Transportation 
+	     	    - Starting point and end point noted
+		    - Locates nearest gas station, price
+		    - Calculates how much saved on gas based on distance traveled
+       1.3.2 Input amount saved (not spent)
+       1.3.3 Date automatically recorded
+       1.3.4 Can edit/delete input
+
+   1.4 Share (optional)
+       1.4.1 Send saved total to other users (requiring their permission) through internet
+
+   1.5 Other
+       1.5.1 Suggest helpful money-saving alternatives
+       1.5.2 Scroll support when necessary	
