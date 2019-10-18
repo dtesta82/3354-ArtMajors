@@ -15,6 +15,7 @@
 
 ## Richard Lin
    * 1.1 - Create GitHub account: @rlin04
+   * 3 - Software Process Model
 
 ## Shayan Mufti
    * 1.1 - Create GitHub account: @wizemufti
