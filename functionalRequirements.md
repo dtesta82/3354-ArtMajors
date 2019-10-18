@@ -2,17 +2,22 @@
 ###### Collaborators: David Testa
 <br />
 
-### 1: Something
-blah blah blah
+### 1: User Authentication
+*Description*
 
-### 2:
+### 2: 3rd party app Authentication
+*Description*
 
-### 3:
+### 3: Mobile Application Front End
+*Description*
 
-### 4:
+### 4: Web Application Front End
+*Description*
 
-### 5:
+### 5: Database Server
+*Description*
 
-### 6:
+### 6: Social Media Connectivity
+*Description*
 
-### 7:
+### 7: 
