@@ -1,4 +1,4 @@
-## 7 Functional Requirements
+## FUNCTIONAL REQUIREMENTS
 ###### Collaborators: David Testa
 <br />
 
@@ -21,3 +21,10 @@
 *Description*
 
 ### 7: 
+*Description*
+
+
+
+
+
+[3354-ArtMajors](https://github.com/dtesta82/3354-ArtMajors)
