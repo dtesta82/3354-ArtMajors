@@ -4,7 +4,7 @@
 <br />
 
 ### 1:   User Interaction
-*Description*  The 
+*Description*  The most important part of the app. We must:
    * Securely store user data
    * Provide username/password authentication as well 2FA options
    * Design a sleek, intuitive UI
