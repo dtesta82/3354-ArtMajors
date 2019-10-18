@@ -1,4 +1,4 @@
-## Life Optimization App
+### Life Optimization App
 ## FUNCTIONAL REQUIREMENTS 
 ###### Collaborators: David Testa
 <br />
