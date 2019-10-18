@@ -6,11 +6,12 @@
              
   Security: Constrain idle time, if a user is idle for too long the app closes.
   
-  Performance: App shall not take more than 5 seconds to start up
+  Performance: App shall not take more than 5 seconds to start up.
   
 ## Organizational:
   Operational: Customer support on rewards/questions/complaints/etc.
                Reward retraction if customer claims a "charge-back".
+               Users shall provide a PIN to the system for access to the app.
                
 
 ## External:
