@@ -12,6 +12,9 @@
   Usability: App provided on Android and IOS.
              App must have a fluid, reactive design.
              
+  Dependability: App must accurately fairly rewards, weaknesses of reward exploitation must be kept at a minimum.
+                 Exploits and bugs will be fixed according to severity.
+  
   Security: Constrain idle time, if a user is idle for too long the app closes.
   
   Performance: App shall not take more than 5 seconds to start up.
@@ -30,11 +33,11 @@
                
 
 ## External:
- * Regulatory: 
+ * Regulatory: Follow all local, state, and federal regulations regarding personal and financial information
  
  * Ethical: Maintain the integrity of the data. Keep data confidential and only accessible to the specific user.
  
  * Legislative: Information Privacy Law - System can not disclose or misuse information about private individuals no matter what. 
-   * Accounting: 
+   * Accounting: System will keep track of all things bought from rewards.
    * Safety: The system must ask permissions from user in order for the system to take user purchases and activities from the user's              bank account.
              The user, at anytime, will be allowed to withdraw permissions from the system. 
